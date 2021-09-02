@@ -1,0 +1,289 @@
+########################################
+### Olympus 2207 1.2
+### by Nebesa Games
+###
+### [file ] frfred
+### [where] Freds House
+### [who  ] Fred
+###
+### [lines] 68
+### [words] 1511
+### [carac] 7930
+###
+### [lang ] ru/en/fr
+########################################
+#
+#1
+Вы видите: Нервный парень.
+You see a nervous man.
+Tu vois un homme nerveux.
+#2
+Он настолько бледный, что будто светится.
+He is so pale that it looks like he's glowing.
+Il est si pâle qu'on dirait qu'il brille.
+##### после знакомства #####
+#3
+Вы видите: Фред.
+You see Fred.
+Tu vois Fred.
+#4
+Параноидально осторожный бывший Пес.
+A paranoid ex-Jackal.
+Un ex-Jackal paranoïaque.
+##### ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ #####
+#10
+[Мучнисто-бледный худощавый парень  в клепаной кожанке с многочисленными выцветшими нашивками о чем-то спорит с высокой рыжеволосой девушкой. Увидев вас, он торопливо тащит пистолет из-за ремня, но задевает спуск и едва не простреливает себе ногу. От этого он белеет еще сильнее, но все же кое-как наводит трясущимися руками ствол в вашем направлении. Вы замечаете расплывчатое "ФРЕД", набитое на фалангах пальцев обеих рук] Ты! Стой, где стоишь! Какого хрена тебе здесь нужно? Как ты нашел это место?!
+[A skinny man, pale as a ghost and wearing a riveted jacket with lots of patches, is in a heated argument with a tall, red-haired girl. Upon seeing you he quickly pulls out his pistol, almost shooting himself in the leg in the process. Going even more pale, he still manages to points the gun at you with two shacky hands. You notice the blurry letters "FRED" tattoed on the knuckles on both hands.] Stay where you are! What the hell do you want here? How did you find this place?!
+[Un homme maigre, pâle comme un fantôme et portant une veste rivetée avec de nombreuses pièces recousues, est en train de se disputer avec une grande fille aux cheveux roux. En te voyant, il sort rapidement son pistolet et manque de se tirer une balle dans la jambe. Devenu encore plus pâle, il parvient tout de même à pointer son arme vers toi avec ses deux mains tremblantes. Tu remarques les lettres floues "FRED" tatouées sur les jointures des deux mains]. Restez où tu es ! Qu'est-ce que tu veux, putain ? Comment as-tu trouvé cet endroit ?
+#11 [011]
+Слушай, клоун, если ты не спрячешь ствол, я тебе его в задницу поперек засуну. Пока мне нужна от вас только информация, но это может измениться в любой момент.
+Listen you clown, If you keep waving the piece like that, I'll shove it up your ass. I only need some information, but I can change my mind anytime.
+Ecoutes, espèce de clown, si tu ne ranges pas cette arme, je te la fourre dans le cul. J'ai seulement besoin de quelques informations, mais je peux changer d'avis à tout moment.
+#12 [011]
+Эй! Полегче, ок? Я, вообще-то, только пару вопросов вам задать хотел.
+Hey, easy, alright? I just want to ask a couple of questions, that's all.
+Hé, doucement, d'accord ? Je veux juste poser quelques questions, c'est tout.
+#13 [999]
+Я сейчас спокойно уйду, а ты возьми себя в руки. Не пугай девушку...
+Whoa! I'm going to slowly back up until you pull yourself together. Don't scare the girl...
+Whoa ! Je vais reculer lentement jusqu'à ce que tu te ressaisis. N'effraie pas la fille...
+#1001
+[Испуганно вздрагивает, но тут же принимает грозный вид. При этом косится в сторону девушки, проверяя, заметила ли она его страх] Для всех будет лучше, если ты свалишь отсюда побыстрее. Или до тебя с первого раза туго доходит?
+[He starts to shiver, but supresses it quickly and tries to look menacing while glancing at the girl.] It would be better for everyone if you'll just go away now, fast. Do I need to repeat that?
+[Il a frémi, mais a immédiatement pris un air menaçant. Il regarde discrètement la fille pour voir si elle avait remarqué sa peur.] Ce serait mieux pour tout le monde si tu partais maintenant, rapidement. Ai-je besoin de le répéter ?
+#101 [012]
+Уйду, когда сочту нужным. Пока ответь-ка мне на пару вопросов.
+I leave when I want to. Better answer me some questions.
+Je pars quand je veux. Tu ferais mieux de répondre à mes questions.
+#102 [019]
+Я закончил с минами.
+I'm done with the mines.
+J'en ai fini avec les mines.
+#103 [016]
+Насчет балахона все в силе? Или ты сам минами решил заняться?
+Are we good about the robe deal? Or have you decided to take on the mines yourself?
+On est d'accord pour la robe ? Ou as-tu décidé de t'occuper toi-même des mines ?
+#104 [999]
+Не дергайся, мне нужно здесь осмотреться. Скоро я вас покину. 
+Don't be so twitchy, I just need to look around here. I'll leave this place soon.
+Ne sois pas si crispée, j'ai juste besoin de regarder par ici. Je vais bientôt quitter cet endroit.
+#1002
+[Кивает вам с кислой улыбкой] А, крутой... И откуда ты на мою голову взялся? 
+[Nods at you with a sour smile] Oh, Mr. Cool Guy... Where did you even come from... 
+[Il te fait un signe de tête avec un sourire aigre] Ah, un dur à cuire... D'où viens-tu au juste... 
+#105 [012]
+Да тебе судьбу благодарить за меня надо! Ладно, скажи-ка мне лучше вот что...
+Actually, you should be grateful. Tell me about...
+En fait, tu devrais être reconnaissant. Parle-moi de...
+#106 [999]
+Скоро разбежимся, не боись. Ты меня своим нытьем уже достал.
+We'll split soon enough, don't sweat it. I'm already sick of your constant whining.
+On se séparera bien assez tôt, ne t'en fais pas. J'en ai déjà marre de tes pleurnicheries constantes.
+#107 [999]
+Не переживай так, в ближайшее время я вас покину. Только закончу одно дело.
+Don't worry, I'll leave you soon. I just need to finish one thing.
+Ne t'inquiète pas, je vais te quitter bientôt. J'ai juste besoin de finir une chose.
+#110
+[Он медленно опускает пистолет и съеживается, будто в ожидании удара. Вы замечаете, как девушка при этом недовольно морщится] Дерьмо химерово... Я уж подумал, что Псы до меня добрались. Но если ты не из них, это еще не значит, что тебе здесь кто-то рад, понял? Че ты хотел-то от нас, кстати?
+[He slowly puts the gun down and cringes, as if waiting for a blow. The girl makes a face as she sees that.] Chimera shit... I thought it's the Jackals. Still, just because you're not one of them, doesn't mean you are welcomed here! Got it? What do you want from us, anyhow?
+[Il pose lentement l'arme et se recroqueville, comme s'il attendait un coup. La fille fait une grimace en voyant ça.] Merde de chimère... Je pensais que c'était les Jackals. Quand même, ce n'est pas parce que tu n'es pas l'un des leurs que tu es le bienvenu ici ! Compris ? Qu'est-ce que tu nous veux, de toute façon ?
+#111 [013]
+Ты в свое время нашел один балахон с надписью NCASTR. Надеюсь, он еще у тебя?
+You've found a robe with the NCASTR logo some time ago. Do you still have it?
+Vous avez trouvé une robe avec le logo NCASTR il y a quelques temps. Est-ce que tu l'as ?
+#112 [021]
+Как вы двое здесь оказались?
+How did you two end up here?
+Comment as-tu atterri ici ?
+#113 [020]
+А чего ты так из-за Псов все переживаешь?
+Why are you so worried about Jackals?
+Pourquoi es-tu si inquiet au sujet des Jackals ?
+#114 [999]
+Пока ничего, мне надо осмотреться.
+Nothing for now, just looking around a bit.
+Rien pour le moment, je regarde juste un peu.
+#120
+[С несчастным видом смотрит на свою спутницу, но она упорно не хочет встречаться с ним взглядом] Ну спрашивай, все равно ведь не отстанешь. Мало мне Псов - ты еще нарисовался...
+Okay, ask. It's not like you're going anywhere. As if the Jackals were not enough to deal with...
+Ok, demande. C'est pas comme si tu allais partir. Comme si les Jackals n'étaient pas assez nombreux...
+#121 [013]
+Ты в свое время нашел один балахон с надписью NCASTR. Надеюсь, он еще у тебя?
+You've found a robe with the NCASTR logo some time ago. Do you still have it?
+Tu as trouvé une robe avec le logo NCASTR il y a quelques temps. Est-ce que tu l'as ?
+#122 [021]
+Как вы двое здесь оказались?
+How did you two ended up here?
+Comment as-tu atterri ici ?
+#123 [020]
+А чего ты так из-за Псов все переживаешь?
+Why are you so worried about Jackals?
+Pourquoi es-tu si inquiet au sujet des Jackals ?
+#124 [999]
+Чуть позже, мне надо осмотреться.
+Later, I need to have a look around.
+Plus tard, j'ai besoin de jeter un coup d'oeil.
+#130
+[Фред выглядит слегка удивленным] Балахон? Ну да, есть такой. У жмурика одного позаимствовал. Хороший прикид - трупак-то сгнил совсем, да и кротокрысы обглодали неслабо, а ему хоть бы что. Тебе-то он зачем?
+A robe? Yeah, I have it. Took it from a corpse. The body was completely rotten and partially eaten by molerats, but strangely enough, the robe wasn't affected in the slightest. Why do you ask?
+Une robe ? Oui, je l'ai. Je l'ai prise sur un cadavre. Le corps était complètement pourri et partiellement mangé par des rats-taupes, mais bizarrement, la robe n'a pas été affectée le moins du monde. Pourquoi tu demandes ça ?
+#131 [014]
+Уверен - мне этот балахон нужнее, чем тебе.
+I'm sure I need this robe more than you do.
+Je suis sûr que j'ai plus besoin de cette robe que toi.
+#132 [012]
+Поговорим об этом позже, у меня есть еще вопросы.
+We'll talk about this later. I have other questions.
+Nous en reparlerons plus tard. J'ai d'autres questions.
+#133 [999]
+Скоро узнаешь. Как только я вернусь.
+You'll find out soon enough. I'll be back.
+Tu le sauras bien assez tôt. Je serai de retour.
+#140
+[С задумчивым видом скребет щетинистый подбородок] Нуу... Это че - память о твоем дохлом дядюшке? Хотя, мне-то что?  Так-то без проблем, только окажи мне одну услугу.
+[He thoughtfully scratches his chin] What's it to you? Some kind of like... memorabilia? From a dead relative or something? Ah, what do I care? No problem, but I need a favor from you.
+[Il se gratte pensivement le menton] Qu'est-ce que c'est pour toi ? Une sorte de... souvenir ? D'un parent mort ou quelque chose comme ça ? Ah, qu'est-ce que ça peut me faire ? Pas de problème, mais j'ai besoin d'une faveur de ta part.
+#141 [015]
+Что? Какую еще услугу?
+Favor? What favor?
+Une faveur ? Quelle faveur ?
+#150
+[Воровато оглядывается на девушку и говорит вполголоса] Тут такое дело... Как только мы здесь тормознулись, я вокруг дома мин накидал. Сам понимаешь - Псы, да еще и бестии тут частенько шатаются. Но... [Шмыгает носом со смущенным видом] Торопился я немного, зарыть-то их зарыл... Там бестия нарисовалась, я в дом и рванул... Чтоб Кристи мою защитить, не подумай ниче! [Похоже, девушка его  все-таки слышала. Она раздраженно пинает пустую консервную банку и уходит в дальний угол, наградив Фреда далеко не ласковым взглядом. Тот лишь вздыхает и продолжает обычным тоном] В общем, пока то да се, я и сам забыл, где мины поставил. Вот с этим ты мне и помоги - проложи дорогу через поле, там всего-то штук пять отрыть и придется.
+[He glances at the girl and lowers his voice] Here's the thing... When we settled here, I laid some mines around the house. You know, against Jackals and such... plus, the Onca Devils often come around. So, uh... [He sniffles embarrassingly] when I was finishing placing the mines, I noticed some Oncas nearby and rushed into the house... to protect my Christie, of course! [Seems like the girl heard him. Giving him a cold look, she kicks an empty can and walks into the farthest corner of the room. Fred sighs.] The thing is, with all this running I forgot where exactly I planted the mines. That's where I need help. Clear us a path through the field, there are only about five mines you would need to dig up.
+[Il regarde la fille et baisse la voix] Voilà le truc... Quand nous nous sommes installés ici, j'ai posé quelques mines autour de la maison. Tu sais, contre les Jackals et autres... et puis, les janoirs viennent souvent dans le coin. Alors, euh... [Il renifle d'un air embarrassé] quand j'ai fini de poser les mines, j'ai remarqué des janoirs à proximité et je me suis précipité dans la maison... pour protéger ma Christie, bien sûr ! [On dirait que la fille l'a entendu. Lui jetant un regard froid, elle donne un coup de pied dans une boîte de conserve vide et se dirige vers le coin le plus éloigné de la pièce. Fred soupire.] Le truc, c'est qu'avec toute cette course, j'ai oublié où exactement j'ai planté les mines. C'est là que j'ai besoin d'aide. Dégages-nous un chemin à travers le champ, il n'y a que cinq mines à déterrer.
+#151 [016]
+И только? Так че ж сам-то этим не займешься?
+That's it? Why don't you do it yourself then?
+C'est tout ? Pourquoi tu ne le fais pas toi-même alors ?
+#152 [024]
+Мне тебя урыть проще, мудила ты грешный. И я не бестия, от меня не спрячешься...
+It is easier for me to kill you off, asshole. And you can't hide from me, I'm not an Onca Devil...
+C'est plus facile pour moi de te tuer, connard. Et tu ne peux pas te cacher de moi, je ne suis pas un janoir...
+#153 [999]
+Надо все обдумать... Поговорим позже.
+I need to think it over... We'll talk later.
+Je dois y réfléchir... Nous en reparlerons plus tard.
+#160
+Да я хотел, только вот руки все не доходят... Тут это... По дому столько дел, ага. [Его сожительница издает возмущенный возглас, но потом лишь безнадежно машет рукой]
+Yeah, I wanted to, but uh, didn't have the time... There is, uh... so much to do, you know... housekeeping. [The girl chuckles, but then looks at him and just sighs.]
+Ouais, je voulais, mais euh, je n'ai pas eu le temps... Il y a, euh... tellement de choses à faire, tu sais... le ménage. (La fille glousse, mais le regarde ensuite et soupire).
+#161 [999]
+Ладно, я согласен. Скоро вернусь. Надеюсь, не по частям...
+Okay, I'll do it. Be back soon. Hopefully in one piece.
+Ok, je vais le faire. Je reviens bientôt. En un seul morceau, j'espère.
+#162 [024]
+Больно сложно с тобой. Я лучше сделаю то, до чего у Псов руки не дошли - окрашу этот мир твоей кровью. 
+So many problems with you. I'll better do what the Jackals couldn't - paint the walls with your blood.
+Tant de problèmes avec toi. Je vais faire ce que les Jackals n'ont pas pu faire. Peindre les murs avec ton sang !
+#163 [017]
+Хей, зачем упускать такой шанс отличиться перед Кристи? Ты же хочешь, чтобы она смотрела на тебя другими глазами? Это ж тебе не бестию голыми руками заломать - всего-то в земле немного покопаться. Девушкам нравятся мужики, готовые рискнуть ради них шкурой, уж поверь моему опыту. 
+Hey, why would you want to miss the chance of showing Christie what you are capable of? You do want her to look at you differently, right? It's not like about killing an Onca with your bare hands - just digging around a bit. Girls like men who are willing to take risks for them, trust my experience.
+Hey, pourquoi voudrais-tu rater l'occasion de montrer à Christie ce dont tu es capable ? Tu veux qu'elle te regarde différemment, non ? Il ne s'agit pas de tuer un janoir à mains nues, mais juste de creuser un peu. Les filles aiment les hommes qui sont prêts à prendre des risques pour elles, crois-en mon expérience.
+#164 [999]
+Понятно... Я прикину кое-что и продолжим разговор.
+I see... I'll figure something out and we'll talk again.
+Je vois... Je vais trouver une solution et nous en reparlerons.
+#170
+[Похоже, вы сумели задеть его за живое] Это... Драть меня сзади, в чем-то ты прав. Конечно, я это могу... Только...[Вы какое-то время любуетесь борьбой самомнения с осторожностью] А, да хрен с ним, сделаю все сам! [Хватает какой-то инструмент со стола и торопится уйти, пока не передумал. Вы и Кристи с интересом прислушиваетесь, ожидая взрыва, но вместо этого в дом вваливается еще более бледный и взволнованный Фред. На его лице, как приклеенная, застыла неестественная улыбка]
+This, uh... Fuck me, maybe you are right. Of course, I can do it... But... Aw man, screw it! I'll do it myself! [He grabs some tool from the table and hastily leaves. You and Christie eagerly listen, expecting the sound of an explosion, but a short while later, you see an even more pale and trembling Fred burst into the room again. Despite that, he has a small unnatural looking smile on his face.]
+Ce, euh... Putain, tu as peut-être raison. Bien sûr, je peux le faire... Mais... Oh mec, fais chier ! Je vais le faire moi-même ! [Il prend un outil sur la table et s'en va précipitamment. Christie et toi écoutez attentivement, attendant le son d'une explosion, mais peu de temps après, tu vois un Fred encore plus pâle et tremblant faire à nouveau irruption dans la pièce. Malgré cela, il affiche un petit sourire anormal sur son visage].
+#171 [018]
+Ну, как успехи?
+So, how did it go?
+Alors, comment ça s'est passé ?
+#180
+[Он присаживается на трясущихся ногах, привалившись к стене] Готово... Я крут! [Истерично хихикает] Ух, натерпелся... В общем, забирай балахон - вон он, в скатке под столом. Это я типа тебе благодарен, что меня подбил на это. Теперь-то Кристи мне точно даст, а?
+He sits down, leaning to the wall. His legs are visibly shaking] It's done... damn, I'm so good! [He giggles hysterically] Man, that was... The robe is under the table. Take it, a sign of my gratitude for motivating me to do it. Now Christie is definitely impressed, right?
+[Il s'assied, appuyé au mur. Ses jambes tremblent visiblement] C'est fait... merde, je suis si bon ! [Il rigole hystériquement] Mec, c'était... La robe est sous la table. Prends-la, en signe de gratitude pour m'avoir motivé à le faire. Maintenant Christie est définitivement impressionnée, non ?
+#181 [999]
+Это уже ваши проблемы. Может, еще свидимся. Бывай.
+Well, that's your business. I'm going now. Maybe I'll see you around.
+Eh bien, c'est votre affaire. Je m'en vais maintenant. Peut-être que je te verrai dans le coin.
+#182 [999]
+Конечно! Все так и будет. Ну, не буду вам мешать.
+Sure! Exactly that. Well, I won't bother you anymore.
+Bien sûr ! Exactement ça. Eh bien, je ne te dérangerai plus.
+#190
+Да ладно! Черт, я был уверен, что твои кишки по песку разметает!  Не, ну ты порадовал, не вопрос! [Лезет под стол и достает перетянутую ремнями скатку] Ща, момент... Вот, держи. Хорош костюмчик, а?
+No way! Shit, I was sure that your intestines would be scattered around the wasteland! You did a great job, without a doubt! One moment... [He puts his hand under the table and pulls out a bundle of cloth] Here you go. Looks good, right?
+Pas possible ! Merde, j'étais sûr que tes intestins seraient éparpillés dans le désert ! Tu as fait du bon boulot, sans aucun doute ! Un instant... [Il met sa main sous la table et sort un paquet de tissu] Voilà. Ça a l'air bien, non ?
+#191 [999]
+Пойдет. Ладно, бывай Пес... Бывший Пес.
+Will do. Okay, I'll go now. See you around, Jackal. I mean, ex-Jackal.
+Je le ferai. Ok, je vais y aller maintenant. A bientôt, Jackal. Je veux dire, ex-Jackal.
+#192 [999]
+То, что нужно. Ну, мне пора, удачи вам.
+That's what I needed. Well, gotta go now. Good luck to you.
+C'est ce dont j'avais besoin. Bon, je dois y aller maintenant. Bonne chance à toi.
+#200
+[Нервным движением откидывает сальные пряди со лба] Да ты че, это ж самая отмороженная банда на Радиусе! И они измены не прощают. Я ж кинул их с Кристи. [Кивает в сторону девушки] Если б ты нам не помешал, я ее уломал бы отсюда сдернуть. Нельзя мне на одном месте долго торчать... [Бормочет себе под нос] Может, придется в итоге одному когти рвать...
+[He nervously pushes greasy strands of hair from his forehead] What, you don't know? They're the most hardass gang of the whole Radius! And they don't forgive those who betray them. I tossed that all for Christie. [Nods in girl's direction] If you hadn't interrupted us, I would talk her into leaving this place. It's dangerous to stay in one place for too long... [He mumbles] Maybe I'll have to leave on my own in the end...
+[Il écarte nerveusement les mèches grasses de son front] Quoi, tu ne sais pas ? C'est le gang le plus dur à cuire de tout le Rayon ! Et ils ne pardonnent pas à ceux qui les trahissent. J'ai jeté tout ça pour Christie. [Si tu ne nous avais pas interrompus, je l'aurais convaincue de quitter cet endroit. C'est dangereux de rester trop longtemps au même endroit... [Il marmonne] Peut-être que je vais devoir partir de moi-même à la fin...
+#201 [022]
+Кристи, похоже, много значит для тебя?
+Looks like Christie means a lot to you.
+On dirait que Christie compte beaucoup pour toi.
+#202 [012]
+Ясно. Еще вопрос...
+I see. Another question then.
+Je vois. Une autre question alors.
+#203 [999]
+Пока на этом и закончим разговор.
+That's all I wanted for now.
+C'est tout ce que je voulais pour le moment.
+#210
+Как-как... Бегаем мы быстро, вот как. [Замолкает, глядя себе под ноги] Мы тогда одно поселение на рога поставили, всех, кроме девок помоложе, в расход пустили... Тут я ее и увидал. Мне бы такая телка в жизни не обломилась у Псов. Вот я и решил вопрос по-своему. Забрал Кристи и рванул сюда. Мы эту хату с Урсулом в разведке как-то нашли. Это ж он тебя навел? Больше-то некому... Теперь решаем, как дальше быть. Вот такие дела, брат. 
+How... We ran fast, that's how. [He pauses, looking at his feet] It all started when me and my pack sacked some settlement... raised it to rubble. We disposed of everyone, except the girls... And that's when I saw her. I mean, look at her! I would never have any chance with a girl like this in the Jackals, you know? So I dealt with it my way. I took her and ran off straight here. Me and Ursul stumbled upon this place once, while hunting. It was him who tipped you off, wasn't he? No one else knows... And now we are considering our options about what to do next. That's how it is.
+Comment... On a couru vite, voilà comment. [Il fait une pause, regardant ses pieds] Tout a commencé quand moi et ma meute avons saccagé une colonie... et l'avons réduite en cendres. On s'est débarrassé de tout le monde, sauf des filles... Et c'est là que je l'ai vue. Je veux dire, regardez-la ! Je n'aurais jamais eu la moindre chance avec une fille comme ça chez les Jackals, tu sais ? Alors j'ai réglé ça à ma façon. Je l'ai prise et je me suis enfui directement ici. Ursul et moi sommes tombés sur cet endroit une fois, en chassant. C'est lui qui t'as renseigné, n'est-ce pas ? Personne d'autre ne sait... Et maintenant, nous réfléchissons à ce que nous allons faire ensuite. C'est comme ça.
+#211 [022]
+Кристи, похоже, много значит для тебя?
+Looks like Christie means a lot to you.
+On dirait que Christie compte beaucoup pour toi.
+#212 [012]
+Бывает. Вернемся к другим вопросам.
+I see. Let's talk about something else.
+Je vois. Parlons d'autre chose.
+#213 [999]
+Продолжим разговор позже. Не возражаешь?
+We'll continue the conversation later if you don't mind.
+Nous continuerons la conversation plus tard, si tu veux bien.
+#220
+[С мечтательным видом ковыряется пальцем в зубах] Это да... Я и не знал, что такие девки бывают. Бля, опять шерсть крысиная в зубах застряла... Только не так я все себе представлял. Сказал бы кто, что столько проблем с Псами будет, уж не знаю, стал бы с ней связываться... [Задумчиво смотрит на Кристи, которая пытается сделать что-то, похожее на ужин] Хотя, может, оно того стоит?
+[He takes on a dreamy look, picking his teeth with a finger] I guess... I didn't even know there could be someone like her... Fuck! The rat fur stuck in my teeth again... What I mean is - this is not how I imagined the things to turn out. If someone told me beforehand that I would have such big problems with the Jackals because of this, I don't know if I would have taken her away... [He ponders, looking at Christie] But maybe it's worth it?
+[Il prend un air rêveur, se curant les dents avec un doigt] Je suppose... Je ne savais même pas qu'il pouvait y avoir quelqu'un comme elle... Putain ! La fourrure de rat s'est encore coincée dans mes dents... Ce que je veux dire, c'est que ce n'est pas comme ça que j'imaginais que les choses allaient se passer. Si quelqu'un m'avait dit à l'avance que j'aurais de si gros problèmes avec les Jackals à cause de ça, je ne sais pas si je l'aurais emmenée... [Il réfléchit, en regardant Christie] Mais peut-être que ça en vaut la peine ?
+#221 [023]
+Да кому ты нужен, герой? У Псов что - без тебя дел мало? Ты хоть одного видел, после того, как сорвался от них?
+Who the hell needs you, hero? Do you think that the Jackals have nothing better to do than chasing runaways? Did you see even one of them since you ran off?
+Qui a besoin de toi, le héros ? Tu crois que les Jackals n'ont rien de mieux à faire que de chasser les fugitifs ? Tu as vu un seul d'entre eux depuis que tu t'es enfui ?
+#222 [012]
+Это сам решай. А мне скажи вот что...
+That's up to you. Tell me something else...
+C'est à toi de voir. Dis-moi autre chose...
+#223 [999]
+Все, мне пора. Благодарю за информацию.
+Okay, I need to go. Thanks for the information.
+Ok, je dois y aller. Merci pour l'information.
+#230
+[Он колеблется какое-то время, но потом решительно мотает головой] Не, я так рисковать не могу. Мало ли че Крикуну в башку стукнет? С ним шутки плохи... 
+[He hesitates for a while, then shakes his head firmly] No, I won't take such a risk. Who knows what Loudmouth thinks? He's not one you should mess with... 
+[Il hésite un moment, puis secoue fermement la tête] Non, je ne prendrai pas un tel risque. Qui sait ce que pense Grande Gueule ? Il ne faut pas se frotter à lui... 
+#231 [012]
+Дело твое. Ты мне лучше ответь на один вопрос.
+Suit yourself. Better answer me something else.
+Comme tu veux. Tu ferais mieux de me répondre autre chose.
+#232 [999]
+Как знаешь. Ладно, мне пора идти.
+As you wish. Okay, I have to go.
+Comme tu veux. Ok, je dois y aller.
+#240
+[Он вновь хватается за пистолет, отшатываясь от вас] Попробуй, сука! Кристи, беги!
+[He grabs his gun again, pulling away from you] Try it, bitch! Christie, run!
+[Il attrape son arme à nouveau, s'éloignant de toi] Essaye, salope ! Christie, cours !
+#241 [998]
+Никто из вас живым отсюда не уйдет!
+No one leaves this place alive!
+Personne ne quitte cet endroit vivant !
+#242 [998]
+Да че тут пробовать? Следи за руками!
+Try it? Watch me!
+Essayer ? Regarde-moi !

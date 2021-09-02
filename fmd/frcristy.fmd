@@ -1,0 +1,205 @@
+########################################
+### Olympus 2207 1.2
+### by Nebesa Games
+###
+### [file ] frcristy
+### [where] Freds House
+### [who  ] Christie
+###
+### [lines] 47
+### [words] 1009
+### [carac] 5483
+###
+### [lang ] ru/en/fr
+########################################
+#
+#1
+Вы видите: худощавая девушка в поношенной одежде.
+You see a thin girl in worn-out clothes.
+Tu vois une fille mince dans des vêtements usés.
+#2
+В отличие от своего спутника, она выглядит скорее усталой, а не испуганной.
+Unlike her companion, she looks more tired than scared.
+Contrairement à son compagnon, elle semble plus fatiguée qu'effrayée.
+##### после знакомства #####
+#3
+Вы видите: Кристи.
+You see Christie.
+Tu vois Christie.
+#4
+Девушка, когда-то спасенная Фредом от Псов.
+The girl that Fred once saved from the Jackals.
+La fille que Fred a sauvé des Jackals.
+##### ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ #####
+#10
+[Ваш взгляд невольно перемещается с симпатичного скуластого личика на роскошную, даже не смотря на покрывающую ее пыль, копну рыжих волос. Короткая куртка с обрезанными рукавами и серая майка оставляют впалый живот открытым, а рваные джинсы выгодно подчеркивают стройные ноги] Привет... Ну и нагнал ты страху на старину Фреда! А я почему-то сразу поняла, что ты не по наши души.
+[Your gaze involuntarily moves from a pretty high-cheekboned face to a luxurious, despite the dust that's covering it, shock of red hair. A short jacket with cut-off sleeves and a grey shirt leave her sunken belly exposed. The ripped jeans nicely emphasize her slender legs.] Hey... You scared the shit out of Fred! But I somehow knew from the start, that you didn't come here for our heads.
+[Votre regard passe involontairement d'un joli visage aux pommettes hautes à la luxueuse, malgré la poussière qui la recouvre, tignasse de cheveux roux. Une veste courte à manches courtes et un débardeur gris laissent apparaître un ventre creux. Le jean déchiré met joliment en valeur ses jambes fines.] Hé... Tu as foutu la trouille à Fred ! Mais je savais depuis le début que tu n'étais pas venu ici pour nos têtes.
+#11 [011]
+Хех, передо мной и не такие ссаться начинали! Но ты права - мне нужны только ответы на пару вопросов.
+I've seen a lot of people pissing their pants when seeing me. But you are right, I just need answers to a couple of questions.
+J'ai vu beaucoup de gens pisser dans leur pantalon en me voyant. Mais tu as raison, j'ai juste besoin de réponses à quelques questions.
+#12 [011]
+Не думал, что мое появление произведет такой эффект. А ты не ответишь мне на один вопрос?
+I didn't think my arrival would make such a fuss. Can you answer a few questions?
+Je ne pensais pas que mon arrivée ferait tant d'histoires. Peux-tu répondre à quelques questions ?
+#13 [016]
+Ты тут в порядке? Помощь не нужна?
+Everything alright here? Do you need any help?
+Tout va bien ici ? Tu as besoin d'aide ?
+#14 [999]
+Тебе точно не из-за чего переживать. Поговорим чуть позже, ок?
+You have nothing to worry about. We'll talk later, okay?
+Tu n'as pas à t'inquiéter. Nous parlerons plus tard, d'accord ?
+#1001
+[Кивает вам] Что, понравилось у нас? Аж уходить не хочется?
+[Nods to you] Do you like it here? So good, you don't even want to leave, right?
+[Hoche la tête] Tu te plais ici ? Tellement bien que tu n'as même pas envie de partir, pas vrai ?
+#1003
+[настороженно смотрит на Вас] Ну как там? Ты прикокошил всех этих тварей?
+[She looks at you cautiously] So, how's it going? Did you deal with all the creatures?
+[Elle te regarde prudemment] Alors, comment ça se passe ? Tu t'es occupé de toutes les créatures ?
+#101 [011]
+Типа того. Не расскажешь мне кое-что?
+Sort of. Care to answer some questions?
+En quelque sorte. Tu veux bien répondre à quelques questions ?
+#102 [016]
+Ты тут в порядке? Помощь не нужна?
+Everything alright here? Need any help?
+Tout va bien ici ? Tu as besoin d'aide ?
+#103 [015]
+Все, решил я вопрос с вашими бестиями.
+It's done. The matter with the beasts is resolved.
+C'est fait. Le problème avec les bêtes est résolu.
+#107 [999]
+Пока осматриваюсь. Поговорим позже, ок?
+Just looking around. We'll talk later, okay?
+Je regarde juste autour de moi. On se parle plus tard, d'accord ?
+#1002
+[На ее покрытом веснушками личике появляется радостная улыбка] Хей, герой! Не хочешь тушеной крысятинки?
+[A smile appears on her freckled face when she sees you] Hey, hero! Want some rat stew?
+[Un sourire apparaît sur son visage plein de taches de rousseur quand elle te voit] Hé, le héros ! Tu veux du ragoût de rat ?
+#104 [011]
+Нет, но спасибо. Лучше ответь мне на один вопрос.
+No, thank you. But I have some questions.
+Non, merci. Mais j'ai quelques questions.
+#105 [016]
+Ты тут в порядке? Помощь не нужна?
+Everything alright here? Need any help?
+Tout va bien ici ? Tu as besoin d'aide ?
+#106 [999]
+Может, позже. Мне еще надо кое-что сделать.
+Maybe later. I have something that needs to be done.
+Peut-être plus tard. J'ai quelque chose qui doit être fait.
+#110
+[Поддергивает сползающие джинсы] Охотно. Рада буду поговорить с человеком, который каждые две минуты не хватается за ствол и с бледной рожей не скачет к окну с криками "Они нашли нас, Кристи!".
+[She eagerly pulls up her loose jeans] Gladly. It's nice to talk to someone for a change, who doesn't grab his gun every two minutes, jumping to the window, screaming "They found us, Christie!".
+[Elle remonte avec empressement son jean ample] Avec plaisir. C'est agréable de parler à quelqu'un pour changer, qui ne prend pas son arme toutes les deux minutes, sautant à la fenêtre en criant "Ils nous ont trouvés, Christie !".
+#111 [012]
+Как ты познакомилась с Фредом?
+How did you meet Fred?
+Comment as-tu rencontré Fred ?
+#112 [013]
+Откуда, ты Кристи?
+Where are you from, Christie?
+D'où viens-tu, Christie ?
+#113 [999]
+Знаешь, лучше поговорим позже.
+You know, let's talk later.
+Tu sais, parlons-en plus tard.
+#120
+[Она мрачнеет и обхватывает себя за плечи, словно от порыва холодного ветра] Фред и его тогдашние ублюдочные дружки напали на наше поселение. А у нас и  было-то от силы пара ребят, действительно способных постоять за себя... Начались всякие веселые штуки вроде отрезанных голов и выпущенных кишок. А меня с подругами отвели в сторонку, любезно объясняя, в каких позах нас будут сношать... Потом что-то взорвалось, началась паника и тут появляется Фред и тащит меня за собой. Вот, собственно, и все. 
+[Her face becomes clouded and she hugs her shoulders as if freezing in a gust of cold wind] Fred and his then-bastard-friends attacked our settlement. We haven't had many able men that could fight... That's when all sort of fun things like beheadings and disembowelings started to happen. Together with other girls, I was brought over to the pens, where they thoroughly explained what awaits us, in every explicit detail... Then suddenly something exploded, everyone started to panic. The next thing I see is Fred getting me out, pulling me along and getting away from there with him. And that's mostly it.
+[Son visage s'assombrit et elle se serre les épaules comme si elle était gelée par une rafale de vent froid] Fred et ses gros cons de pote de l'époque ont attaqué notre colonie. Nous n'avions pas beaucoup d'hommes capables de se battre... C'est alors que toutes sortes de choses amusantes comme des décapitations et des éviscérations ont commencé à se produire. Avec d'autres filles, j'ai été amenée dans les enclos, où ils nous ont expliqué en détail ce qui nous attendait, avec des détails explicites... Puis soudain, quelque chose a explosé, tout le monde a commencé à paniquer. La seule chose que j'ai vu ensuite, c'est Fred qui m'a aider à sortir, et on s'est enfui ensemble. Et c'est à peu près tout.
+#121 [014]
+И вы что, теперь вместе до гроба?
+So you're now, like, together forever?
+Donc vous êtes maintenant, genre, ensemble pour toujours ?
+#122 [011]
+Ух ты. Кстати, у меня есть еще один вопрос.
+Wow. I have another question.
+Génial ! J'ai une autre question.
+#123 [999]
+Повезло тебе, прямо скажем. Ну, не буду больше тебя отвлекать.
+That turned out very lucky for you, I think. Well, I won't bother you anymore.
+Cela s'est avéré très chanceux pour toi, je pense. Eh bien, je ne te dérangerai plus.
+#130
+[Беспечно улыбается и пожимает плечами] А не знаю. Все, что я помню, это безлюдная пустошь за переделами Радиуса. Все развлечения - делать ставки, сдохнешь ты со скуки или от голода. Каждый день одна и та же выжженная земля перед глазами... Ну а потом мы решили осесть в одном поселении, где я скоро поняла, что жизнь в пустошах была не так уж и плоха.
+[She smiles nonchalantly and shrugs] I don't even know. All I remember is a desolate wasteland beyond Radius. All the entertainment we had was betting whether we would die of hunger or boredom. Every day was the same, endless barren land before my eyes... before we decided to settle down in some place. That's where I understood that living in the wastes was not the worst thing that can happen to you.
+[Elle sourit nonchalamment et hausse les épaules] Je ne sais même pas. Tout ce dont je me souviens, c'est d'une terre désolée au-delà du Rayon. Tout le divertissement que nous avions était de parier si nous allions mourir de faim ou d'ennui. Chaque jour, la même terre brûlée à l'horizon... Puis nous avons décidé de nous installer dans une colonie, où je me suis vite rendu compte que la vie dans ces terres désolées n'était pas si mal.
+#131 [012]
+Да? И что произошло?
+Yeah? What happened?
+Ouais ? Que s'est-il passé ?
+#132 [999]
+Благодарю, что уделила время. Еще увидимся, Кристи.
+Thank you for telling me this, Christie. See you around.
+Merci de m'avoir dit ça, Christie. A bientôt.
+#140
+[Усмехается, потирая вздернутый носик] Еще чего. Я, конечно, благодарна ему за то, что он спас меня, но... Так-то он парень неплохой, только больно уж пугливый. У него от этих страхов вообще скоро прибор работать перестанет. Но все же вместе выжить проще, так что я с ним... Пока смогу его терпеть. 
+[She chuckles, rubbing her snubby nose] You wish! Of course I am grateful to him for saving me, but... It's not like he is a bad guy... He is alright - apart from being very jumpy, of course. If he keeps going like this, he's gonna have real problems with handling his tool, if you catch my drift. Still... It's easier to survive together, so I'm stuck with him. As long as I can stand him, at least.
+[Elle glousse, frottant son nez retroussé] Tu aimerais bien ! Bien sûr, je lui suis reconnaissante de m'avoir sauvée, mais... Ce n'est pas comme si c'était un mauvais garçon... Il est bien, à part qu'il est très nerveux, bien sûr. S'il continue comme ça, il va avoir de gros problèmes pour manier son outil, si tu vois ce que je veux dire. Mais... C'est plus facile de survivre ensemble, donc je suis coincé avec lui. Tant que je peux le supporter, du moins.
+#141 [999]
+Желаю тебе с этим удачи. А я пока осмотрюсь здесь...
+Well, good luck with that. I'll go and look around.
+Eh bien, bonne chance avec ça. Je vais aller jeter un coup d'oeil.
+#150
+[Выбегает наружу и вы слышите одобрительные возгласы. По возвращению Кристи обнимает вас и показывает оторванный палец бестии] Это я на память возьму, засушу потом. Ух, мне бы такие ноготки... Спасибо тебе, ты нас очень выручил. Жаль, что не все в Радиусе такие серьезные парни [Фред на эти слова морщится, будто от боли и с угрюмой рожей начинает яростно полировать свой пистолет о подкладку куртки]
+[Seeing you enter, she runs outside where you hear her cheer. Upon returning, she shows you a severed finger of an Onca Devil] I'll take this as a souvenir. Man, I wish I had such nails... Thank you, you really helped us out. Too bad not everyone in Radius are such courageous guys like you [hearing this Fred winces, like if he was in pain, and with a sullen face begins to furiously polish his gun with the lining of his jacket.]
+[En te voyant entrer, elle court dehors où tu entends applaudir. Et à son retour, elle te montre le doigt coupé d'un janoir] Je vais garder ça en souvenir. J'aimerais avoir de tels ongles... Merci, tu nous avez vraiment aidés. Dommage que tout le monde dans le Rayon ne soit pas aussi courageux que toi [en entendant cela, Fred grimace, comme s'il souffrait, et, le visage renfrogné, commence à astiquer furieusement son arme avec la doublure de sa veste].
+#151 [999]
+Да без проблем, детка! Если тебе еще в чем помощь нужна - только скажи!
+No problem, babe! If you'll need something else, just ask!
+Pas de problème, bébé ! Si tu as besoin de quelque chose d'autre, demande-moi !
+#152 [999]
+Это было непросто, но я рад, что все прошло удачно.
+This wasn't easy, but I'm glad everything worked out.
+Ce n'était pas facile, mais je suis content que tout se soit arrangé.
+#1601
+Да как сказать... Сидеть и ждать, порвут тебя бестии или еще какие твари, удовольствие маленькое. Но в целом - да, я в порядке.
+As you said... sitting around, waiting for Onca Devils to show up and rip you apart is kind of a questionable pleasure. But I am mostly fine, yeah.
+Comme tu l'as dit... rester assis à attendre que les janoirs se montrent et te mettent en pièces est un plaisir discutable. Mais je vais plutôt bien, ouais.
+#161 [011]
+Тогда ответь мне на один вопрос...
+Answer me a question then.
+Répond à une question alors.
+#162 [999]
+Отлично, об остальном поговорим позже.
+Good. Let's talk later then.
+Bien. Parlons-en plus tard alors.
+#1602
+Ты и так много для меня сделал. Благодаря тебе я сегодня смогу спокойно заснуть.
+You already did a lot for me. Thanks to you I'll be able to sleep tonight.
+Tu as déjà fait beaucoup pour moi. Grâce à toi, je vais pouvoir dormir ce soir.
+#163 [011]
+Рад был помочь. Не ответишь мне на пару вопросов?
+Glad to be of help. Mind answering me a couple of questions?
+Heureux de pouvoir t'aider. Pourrais-tu répondre à quelques questions ?
+#164 [999]
+Вот и хорошо. Об остальном поговорим позже.
+Good. Let's talk later then.
+Bien. Parlons-en plus tard alors.
+#170
+[Вы собираетесь уйти, но Кристи подходит к вам и хватает за руку] Погоди-ка, крутой парень. Не торопись. Ты хоть понял, что вы с этим гением сотворили? Мины защищали нас от бестий, которые постоянно воют ночами по округе. А теперь-то что? Ты мог бы, по крайней мере, помочь нам продержаться эту ночь? [Фред хочет что-то вставить с обрадованным видом, но она обрывает его] Даже слушать не хочу! Может, мы и уйдем, но только не сейчас, когда нас разорвут на первой же миле! Хорошо, что хоть кто-то из нас двоих умеет думать...
+[As you are trying to leave, Christie stands in your way and grabs your hand] Wait a minute, tough guy, slow down. Do you even understand what you and this genius did just now? The mines were the only protection from Onca Devils, and - you know - there are lots of them outside, judging by the howling, especially after the sunset! Could you, at least help us make it through this night? [Fred wants to say something, looking delighted, but she doesn't let him] I don't even want to hear it! Maybe we will leave this place, but not now when these creatures can tear us to pieces on the first mile on out! It's good that some of us are able to actually think with their heads!
+[Alors que tu essayes de partir, Christie se met en travers de ton chemin et t'attrape la main] Attends une minute, gros dur, ralentis. Est-ce que tu comprends au moins ce que toi et ce génie venez de faire ? Les mines étaient la seule protection contre les janoirs, et tu sais après le coucher du soleil et à en juger par les hurlements, il y en a beaucoup dehors ! Pourriais-tu, au moins, nous aider à passer la nuit ? [Fred veut dire quelque chose, l'air ravi, mais elle ne le laisse pas faire] Je ne veux même pas l'entendre ! Peut-être que nous quitterons cet endroit, mais pas maintenant alors que ces créatures peuvent nous mettre en pièces dès le premier kilomètre ! C'est bien que certains d'entre nous soient capables de réfléchir avec leur tête !
+#171 [999]
+Эй, милая, это все не мои проблемы. Где ты раньше была, а? Все, свали с дороги, мне пора.
+Look, honey, it's not really my problem. Where have you been before? Get out of the way, I've got to go.
+Ecoute, chérie, ce n'est pas vraiment mon problème. Où es-tu allé avant ? Pousse-toi, je dois y aller.
+#172 [999]
+Ок. Выручу вас, так уж и быть. Давно я не охотился на этих тварей...
+Sure, I'll help. It's been a while since I hunted these beasts...
+Bien sûr, je vais t'aider. Cela fait un moment que je n'ai pas chassé ces bêtes...
+#173 [999]
+Я бы рад остаться, но мне надо спешить. Уж извините.
+I would love to stay, but I really have to hurry. Sorry.
+J'aimerais rester, mais je dois vraiment me dépêcher. Désolé.
+#174 [999]
+Черт, почему твой дружок мне сразу этого не сказал? Конечно же, я помогу вам!
+Damn! Why didn't this buddy of yours say so earlier? Of course, I will help you.
+Bon sang ! Pourquoi ton copain ne l'a pas dit plus tôt ? Bien sûr, je vais t'aider.
+#175
+Ты издеваешься, да? Мы остались без защиты, бестии радостно полакомятся нашими тельцами этой прекрасной лунной ночкой! На Фреда-то уж точно рассчитывать не приходится... [Кристи упирается отрешенным взглядом в пол]
+You're kidding me, right? We're left without any protection, the beasts are going to happily feast on our corpses this beautiful moonlit night! I certainly can't count on Fred... [Christie stares at the floor with a forlorn look]
+Tu te moques de moi, hein ? Nous sommes laissés sans aucune protection, les bêtes vont joyeusement se régaler de nos cadavres par cette belle nuit de lune ! Je ne peux certainement pas compter sur Fred... [Christie fixe le sol d'un air désespéré]

@@ -1,0 +1,509 @@
+########################################
+### Olympus 2207 1.2
+### by Nebesa Games
+###
+### [file ] nwmarisa
+### [where] NWO
+### [who  ] Maurissa
+###
+### [lines] 115
+### [words] 1438
+### [carac] 7716
+###
+### [lang ] ru/en/fr
+########################################
+#
+#1
+Вы видите: дерганая дамочка.
+You see a twitchy lady.
+Tu vois une dame nerveuse.
+#2
+Она постоянно оглядывается, будто чего-то боится.
+She is constantly looking around, like being afraid of something.
+Elle regarde constamment autour d'elle, comme si elle avait peur de quelque chose.
+##### после знакомства #####
+#3
+Вы видите: Мариса.
+You see Maurissa.
+Tu vois Maurissa.
+#4
+Она как обычно вся на нервах и слегка подрагивает.
+As usual, she is a little nervous and twitchy.
+Comme d'habitude, elle est un peu nerveuse et crispée.
+##### ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ #####
+##### Node001 #####
+#10
+[Перед вами весьма странная женщина средних лет. Едва увидев вас, она испуганно дергается, замирает и с минуту молча смотрит на вас широко открытыми глазами. Кажется, у нее перехватило дыхание] Кто вы? Что вы здесь делаете? [кажется, она готова пуститься наутек]
+[You see a strange-looking middle-aged woman. When she sees you, she nervously jumps and freezes, gazing at you with wide eyes. Looks like she is ready to run away at any moment] Who are you? What are you doing here?
+[Tu vois une femme d'âge moyen à l'air étrange. Quand elle te voit, elle sursaute nerveusement et se fige, te regardant avec de grands yeux. On dirait qu'elle est prête à s'enfuir à tout moment] Qui es-tu ? Que fais-tu ici ?
+#11 [002]
+Расслабьтесь. Меня зовут 
+Relax, I'm 
+Relax, Je suis 
+#12 [002]
+. У вас все в порядке?
+. Is everything alright?
+. Est-ce que tout va bien ?
+#13 [022]
+У тебя все нормально с головой?
+What's wrong with you? Not quite right in the head?
+Qu'est-ce qui ne va pas chez toi ? Tu n'es pas bien dans ta tête ?
+#14 [999]
+Я просто прохожу мимо.
+I was only passing by.
+Je ne faisais que passer.
+##### Node002 #####
+#20
+О... я просто... подумала, что вы следите за мной. За мной постоянно следят! [она все еще подозрительно присматривается к Вам. Хотя и пытается делать вид , что все в порядке]
+Oh, uh... I was just... I thought you are following me. They follow me all the time! [she still looks suspiciously at you, trying to act like everything is okay.]
+Oh, euh... J'étais juste... Je pensais que tu me suivais. Ils me suivent tout le temps ! [elle te regarde toujours suspicieusement, en essayant de faire comme si tout allait bien.]
+#21 [014]
+Что? 
+What? Who?
+Quoi ? Qui ?
+#22 [014]
+И кто же за тобой следит? Ты тут местная шишка, которая много знает?
+Who is following you? Are you the big cheese around here, knowing too much?
+Qui te suit ? Es-tu avec le gros bonnet du coin, qui en sait beaucoup ?
+#23 [003]
+Я продолжу следить за тобой.
+I'll continue following you then.
+Je vais donc continuer à te suivre.
+##### Node003 #####
+#30
+Что? Ты думаешь, это смешно?! Тут нет ничего смешного, уходи!
+What? Do you think it's funny?! There is nothing funny, go away!
+Quoi ? Tu penses que c'est drôle ?! Il n'y a rien de drôle, va-t'en !
+#31 [999]
+[Вы уходите, сдерживая улыбку. Она определенно не в ладах с головой]
+[you walk away. She is definitely not okay.]
+[Tu t'éloignes. Elle ne va vraiment pas bien.]
+#32 [013]
+Смотрю, у тебя это больная тема...
+I see that it's a sensitive topic for you...
+Je vois que c'est un sujet sensible pour toi...
+#33 [014]
+Туго у тебя с юмором. Кто следит-то?
+You don't really have a sense of humor. Who is following you then?
+Tu n'as pas vraiment le sens de l'humour. Qui te suit alors ?
+##### Node010 #####
+#100
+Ты. Опять... [оглядывается по сторонам]
+You again... [she nervously looks around]
+Encore toi... [elle regarde nerveusement autour d'elle]
+#101 [011]
+Поговорим?
+Want to chat?
+Tu veux discuter ?
+#102 [999]
+Нет, я случайно зашел..
+I was just coming by.
+Je passais juste par là.
+#103
+Привет, Рада тебя видеть!
+Hello, nice to see you!
+Bonjour, ravi de te voir !
+#104 [041]
+Да вот, проходил мимо, решил заглянуть. Может поболтаем?
+I was passing by, decided to come around. Wanna chat?
+Je passais par là, j'ai décidé de faire un tour. tu veux discuter ?
+#105 [999]
+Привет. Просто зашел проведать-поздороваться [Улыбнуться]. Ну пока, мне уже пора бежать.
+Hey. I was wondering how are you doing [smile]. Well, I need to go, see you.
+Hey. Je me demandais comment tu allais. [sourire] Bien, je dois y aller, à plus.
+#106
+Ты! Даже не смей подходить ближе! Проваливай! Проваливай давай! [она потихоньку пятится от Вас назад]
+You! Don't you dare to come any closer! Get out! Out! [she slowly steps away]
+Toi ! N'ose pas t'approcher plus près ! Sors ! Dehors ! [elle s'éloigne lentement]
+#107 [031]
+Я видел твоего шпиона...
+I saw the man who is following you...
+J'ai vu l'homme qui te suit...
+#108 [032]
+Да расслабься уже. Я просто поговорить зашел, задать пару вопросов. Больше не издеваюсь. Честно.
+Just relax. I'm here to talk, ask some questions. No more cruel jokes, honestly.
+Détends-toi. Je suis ici pour parler, poser des questions. Plus de blagues cruelles, honnêtement.
+#109 [999]
+Окей-окей. Уже ухожу!
+Okay! I'm leaving.
+Ok ! Je m'en vais.
+##### Node011 #####
+#110
+[Она сложила руки на груди и внимательно уставилась на вас. Или за вашу спину?] Ну давай.
+[She crosses arms on her chest and stares at you. Or at something behind you?] Go ahead.
+[Elle croise les bras sur sa poitrine et te regarde fixement. Ou quelque chose derrière toi ?] Vas-y.
+#111 [012]
+Ты больна?
+Are you sick?
+Tu es malade ?
+#112 [014]
+За тобой действительно кто-то следит?
+Is someone following you?
+Est-ce que quelqu'un te suit ?
+#113 [019]
+Давай поговорим о тебе. Может, что-нибудь расскажешь о себе?
+Let's talk about you. Can you tell me something about yourself?
+Parlons de toi. Peux-tu me dire quelque chose sur toi ?
+#114 [999]
+[Посмотреть назад] Знаешь, я себя неуютно чувствую, когда люди смотрят не в глаза, а за спину. Поговорим позже.
+[look over your shoulder] You know, I don't feel comfortable when people stare at something behind me. Talk later.
+[regarde par-dessus ton épaule] Tu sais, je ne me sens pas à l'aise quand les gens regardent quelque chose derrière moi. On en reparle plus tard.
+##### Node012 #####
+#120
+Что? [ее руки вытянулись как струны вдоль тела, лицо побагровело] Ты... да что ты себе позволяешь? Я нормальная!
+What? [her hands stretch like strings, the face is all red] You... Who do you think you are? I am perfectly okay!
+Quoi ? [ses mains s'étirent comme des cordes, le visage est tout rouge] Toi... Qui penses-tu être ? Je vais parfaitement bien !
+#121 [999]
+У тебя действительно крыша протекает. Думаю, с тобой говорить бесполезно, хотя и забавно. Пока-пока.
+You have definitely lost your marbles. I think it's no use talking to you, although a little interesting. Bye-bye.
+Tu as définitivement perdu tes billes. Je pense que ça ne sert à rien de parler avec toi, bien que ce soit un peu intéressant. Bye-bye.
+#122 [013]
+Ты такая же нормальная, как я - стриптизерша.
+You are as okay as I'm a stripper.
+Tu es aussi normal que je suis une strip-teaseuse.
+##### Node013 #####
+#130
+Хватит, убирайся!
+Enough, go away!
+Assez, va-t'en !
+#131 [999]
+Да не очень-то и хотелось оставаться. Чао.
+Sure. See ya.
+Bien sûr. A plus.
+##### Node014 #####
+#140
+Человек в плаще песчаного цвета. И еще несколько. Правда, я все никак не могу уловить их лица.
+A man, wearing a sand coat. And somebody else. I can't quite get their faces.
+Un homme, portant un manteau de sable. Et quelqu'un d'autre. Je n'arrive pas à saisir leurs visages.
+#141 [015]
+Я тебе верю, ведь я его видел [внимательно посмотреть ей за спину]
+I believe you - I see him [stare behind her]
+Je te crois. Je le vois. [regarde derrière elle]
+#142 [999]
+Ага. Знаешь, я тут понял, что у меня куча дел. Пойду-ка я.
+Yeah. You know, I've just remembered about all the things I need to do. I'll go now.
+Ouais. Tu sais, je viens de me rappeler de toutes les choses que je dois faire. Je vais y aller maintenant.
+#143 [999]
+Вначале я сомневался, но теперь я точно знаю. У тебя проблемы с головой. [Уйти]
+I had doubts before, but now I'm sure - you are really troubled in the head. [leave]
+J'avais des doutes avant, mais maintenant j'en suis sûr, tu es vraiment troublé dans ta tête. [partir]
+#144 [024]
+Это называется паранойя. Довольно запущенная, надо отметить.
+It is called "paranoia". A severe case of it, I'd say.
+Cela s'appelle la "paranoïa". C'est un cas grave, je dirais.
+#145 [060]
+[Попытаться улыбнуться, изобразить доброе выражение лица] Да, думаю так и есть. Звучит очень убедительно.
+[try to smile, making a kind face] Yes, I think this is just how it is. Very convincing.
+[essaye de sourire, en faisant un visage aimable] Oui, je pense que c'est comme ça. Très convaincant.
+##### Node015 #####
+#150
+[на ее лице отобразился ужас. Зрачки расширились, а руки начало трясти. Но, она не повернулась, замерев на месте и, кажется, задержав дыхание] 
+[she freezes in fear, pupils become widened, hands shaking. But she didn't turn around, she just stands on the spot, seemingly not breathing.] 
+[Elle se fige de peur, ses pupilles s'élargissent, ses mains tremblent. Mais elle ne se retourne pas, elle reste sur place, semblant ne pas respirer.]
+#151 [016]
+[Сфокусировать взгляд на ней]
+[focus your sight on her]
+[concentre ton regard sur elle]
+#152 [017]
+Да нету там никого, это просто шутка...
+I was just joking. There's no one there.
+Je plaisantais. Il n'y a personne.
+##### Node016 #####
+#160
+Он ушел? Всегда так... [Она ссутулилась. Выглядит она жутко измотанной]
+Did he leave? It always ends like this... [She hunches. Now she looks extremely exhausted.]
+Il est parti ? Ça finit toujours comme ça... [Elle se recroqueville. Elle a maintenant l'air extrêmement épuisée.]
+#161 [999]
+[Вздохнуть] Так... теперь и я пойду... [Уйти]
+[take a deep breath] Okay... Now... I'm going... [leave]
+[respire profondément] Ok... Maintenant... Je vais... [partir]
+#162 [011]
+Может, спрошу у тебя еще чего-нибудь, пока он не вернулся?
+Can I ask you something before he comes back?
+Je peux te demander quelque chose avant qu'il ne revienne ?
+##### Node017 #####
+#170
+Не смей так больше делать, у меня чуть сердце не выскочило из груди!
+Don't you dare to do it again! My heart almost exploded!
+N'ose pas le refaire ! Mon coeur a failli exploser !
+#171 [999]
+Окей. А мне пока надо бежать. Я еще загляну.
+Okay. Now I need to run. I'll come by.
+Ok. Maintenant je dois courir. Je passerai te voir.
+#172 [011]
+Извини, действительно глупая шутка. Можно спрошу еще?
+I'm sorry, that was really stupid. Can I ask something else?
+Je suis désolé, c'était vraiment stupide. Je peux demander autre chose ?
+##### Node018 #####
+#180
+Чт... Прочь! Пошел прочь! [Ее лицо налилось краской, а глаза яростно засверкали]
+Wh-... Get away! Out! [Her face becomes red, eyes flashing furiously]
+Qu... Va-t-en ! Dehors ! [Son visage devient rouge, ses yeux clignotent furieusement]
+#181 [999]
+[молча уйти]
+[leave silently]
+[partir en silence]
+##### Node019 #####
+#190
+Я живу здесь с мужем и сыном. Знаешь, они не очень довольны здешней властью. Я их понимаю... Сколько раз   уже видела здесь... всякого. Но меня не желает слушать наш руководитель! Это правильно, что моя семья старается подорвать авторитет этого... дурака!
+I live here with my husband and son. You know, they are not very fond of local authorities, and I understand them... I have seen so many bad things here... You wouldn't believe it. But our Mayor doesn't listen to me! So I fully support them undermining this... Stupid authority.
+Je vis ici avec mon mari et mon fils. Tu sais, ils n'aiment pas beaucoup les autorités locales, et je les comprends... J'ai vu tellement de mauvaises choses ici... Tu ne pourrais pas le croire. Mais notre maire ne m'écoute pas ! Donc, je les soutiens totalement lorsqu'ils sapent cette... autorité stupide.
+#191 [020]
+А можно подробнее?
+Can you tell me more details about your family?
+Peux-tu me donner plus de détails sur ta famille ?
+#192 [013]
+Больных вечно что-то не устраивает... ты действительно шизофреник с манией преследования.
+Those who are sick are always disappointed with something... You are a schizophrenic with a persecution mania.
+Les malades sont toujours déçus par quelque chose... Tu es un schizophrène avec une manie de la persécution.
+#193 [023]
+Я согласен, власть здесь не очень, а жизнь скучная. 
+I agree, it's quite boring here. And the authorities suck. 
+Je suis d'accord, c'est assez ennuyeux ici. Et les autorités sont nulles. 
+##### Node020 #####
+#200
+Дан - просто прелесть! Он такой мужественный, всегда без колебаний принимает серьезные решения. Ах, этим он когда-то  и завоевал мое сердце... А теперь он очень охладел ко мне, постоянно повторяет, что я какая-то ненормальная! Арсэн весь в него. Такой же сильный, смелый, брутальный, и я очень горжусь им! Раньше в семье было как-то теплее, но как только Дан начал воплощать в жизнь свои идеи, все изменилось... Радует лишь то, что сын с отцом держатся вместе и заняты одним делом.
+Dan is lovely! He is a real man, always making difficult decisions without any hesitations! That's how he conquered my heart... But lately he acts cold. He says that something is wrong with me. Arsene is just like him - strong and brave. He makes me so proud! Although, they both used to be more caring... Still, I'm happy they are busy with a common goal and spend time together.
+Dan est charmant ! C'est un vrai homme, qui prend toujours des décisions difficiles sans aucune hésitation ! C'est comme ça qu'il a conquis mon coeur... Mais dernièrement, il est froid. Il dit que quelque chose ne va pas chez moi. Arsene est juste comme lui, fort et courageux. Il me rend si fière ! Bien qu'ils aient tous les deux été plus attentionnés... Quand même, je suis content qu'ils soient occupés par un but commun et qu'ils passent du temps ensemble.
+#201 [999]
+Думаю, мне стоит поболтать с Даном. Пока, Мариса.
+I think I need to talk to Dan. See you around, Maurissa.
+Je pense que je dois parler à Dan. A bientôt, Maurissa.
+#202 [050]
+Я думаю, что в развале нормальных отношений в семье виновата ты. Ты должна не высматривать "шпионов", а следить за домом. Разве нет?
+I think it's your fault that your family is falling apart. You should look for things in your home, not watch out for someone who's "following" you. Don't you think so?
+Je pense que c'est ta faute si ta famille s'effondre. Tu devrais chercher des choses dans ta maison, pas faire attention à quelqu'un qui te "suit". Tu ne crois pas ?
+#203 [021]
+Сочувствую, ты достойна большего. 
+I feel sorry for you. I think you deserve better. 
+Je suis désolé pour toi. Je pense que tu mérites mieux. 
+##### Node021 #####
+#210
+Ты действительно так думаешь?
+Do you really think so?
+Tu le penses vraiment ?
+#211 [011]
+Да, конечно. Однако, спрошу еще. 
+Of course. But I want to ask something else. 
+Bien sûr. Mais je veux demander autre chose. 
+#212 [022]
+[закатить глаза] Наивная дура...
+[roll eyes] What a fool you are...
+[yeux qui roulent] Quel imbécile tu fais...
+##### Node022 #####
+#220
+Вы - хам!!!
+You are such a rude person!!!
+Tu es une personne si grossière !!!
+#221 [013]
+Что поделать?
+Who cares.
+Qui s'en soucie ?
+#222 [999]
+Эм... наверное, я не так выразился. Прости... думаю, нам стоит продолжить разговор позднее. Пока!
+Uh... I think I've picked the wrong words. I'm sorry. Let's talk later. Bye!
+Euh... Je pense que j'ai choisi les mauvais mots. Je suis désolé. Parlons-en plus tard. Bye !
+##### Node023 #####
+#230
+Хорошо, что мы сходимся во мнении!
+It's good that we are on the same page!
+C'est bien que nous soyons sur la même longueur d'onde !
+#231 [020]
+Расскажи еще о своей семье.
+Tell me more about your family.
+Parle-moi de votre famille.
+#232 [012]
+Да я шутканул, местные жители - отличные парни. Это ты ущербная!
+I was just messing with you, the locals are the best. It is you who is troubled!
+Je me moquais juste de toi, les gens du coin sont les meilleurs. C'est toi qui es troublé !
+##### Node024 #####
+#240
+Паранойя?
+Paranoia?
+Paranoïa ?
+#241 [033]
+Да. Это лечится.
+Yes. It's treatable.
+Oui. Ça se soigne.
+#242 [011]
+Не бери в голову, я лучше спрошу...
+Forget about it. I'll ask something else.
+Oublie ça. Je vais demander autre chose.
+#243 [018]
+Это означает, что ты тупая овца.
+That means you are a fool.
+Cela signifie que tu es un idiot.
+##### Node031 #####
+#310
+[Мариса резко переменилась в лице] Уходи! Немедленно! [она отвернулась от Вас и начала озираться по сторонам]
+[Maurissa's facial expression abruptly changes] Leave! Immediately leave! [she turns away from you and starts to look around]
+[L'expression du visage de Maurissa change brusquement] Pars ! Pars immédiatement ! [elle se détourne de toi et commence à regarder autour d'elle]
+#311 [999]
+[конец]
+[end conversation]
+[fin de la conversation]
+##### Node032 #####
+#320
+Мы уже все обсудили, а теперь уходи. И чтобы я больше не видела тебя!
+We've talked. And now - leave! I'd better not see you again!!
+Nous avons parlé. Et maintenant, pars ! Il vaut mieux que je ne vous revoie pas !
+#321 [999]
+Ладно, удаляюсь. 
+Okay, I'm leaving. 
+Ok, je m'en vais.
+#322 [011]
+В прошлый раз я вел себя несерьезно, но ведь все можно исправить, верно? Давайте поговорим по душам заново. Мир? 
+I wasn't being serious the last time. But we can make things right, can't we? Let's try again. 
+Je n'étais pas sérieux la dernière fois. Mais on peut arranger les choses, n'est-ce pas ? Essayons à nouveau. 
+##### Node033 #####
+#330
+Что!? Я - больная? И ты туда же!?
+What!? I am sick? You are the same as them!!
+Quoi ? Je suis malade ? Tu es le même qu'eux !
+#331 [080]
+Да, ты больна. Тебе периодически приходит в голову то, чего не происходит на самом деле. Заметь, выдуманных тобой явлений больше никто не замечает!
+Yes, you are definitely sick. You are periodically seeing things that don't exist. Did you notice that no one else sees these men following you?
+Oui, tu es définitivement malade. Tu vois périodiquement des choses qui n'existent pas. As-tu remarqué que personne d'autre ne voit ces hommes te suivre ?
+#332 [999]
+Увы, думаю, тебе стоит все это обдумать наедине. Я еще зайду позже. Пока.
+Sorry, but you have to think about it alone. I'll come by later. Bye.
+Désolé, mais tu dois y réfléchir seul. Je passerai plus tard. Au revoir.
+#333 [070]
+Не совсем. Психические расстройства являются следствием воздействия совокупности влияющих на человека факторов. 
+Not exactly. Mental disorders are often the result of a combination of influencing factors. 
+Pas exactement. Les troubles mentaux sont souvent le résultat d'une combinaison de facteurs d'influence. 
+##### Node034 #####
+#340
+[она явно задумалась...] Ты, кажется, прав... Как же мне с этим быть? 
+[you definitely struck something in her] I... I think you're right... What do I do? 
+[tu as définitivement touché quelque chose en elle] Je... Je pense que tu as raison... Qu'est-ce que je dois faire ? 
+#341 [035]
+[попытаться вспомнить то, что читал в научных журналах и рассказать об этом]
+[try to remember the stuff you've read about in medical science literature and tell it to her]
+[essaye de te souvenir des choses que tu as lues dans la littérature médicale scientifique et raconte-les-lui].
+#342 [999]
+Мне надо подумать. Я пороюсь в книгах и вернусь.
+I need to think. I'll dig through the books and will come back.
+J'ai besoin de réfléchir. Je vais fouiller dans les livres et je reviendrai.
+#343 [035]
+Мариса, ты живешь в самом безопасном, спокойном, мирном и чудесном месте Радиуса. Тут каждый, хотя и шутит друг над другом, никогда не даст тебя в обиду. Вы - большая семья. Здесь нет чужаков. Их просто не подпустят к тебе. Ты можешь просто выкинуть это из головы. И увидишь - жизнь станет намного проще, лучше.
+Maurissa, you live in the safest, calmest, peaceful, and wonderful place in the whole Radius. Everyone here would stand for you - even if they are pulling some pranks sometimes. You are one big family. Any dangerous outsider just won't make it here. So you can just put it off your mind, and feel the easiness of your life.
+Maurissa, tu vis dans l'endroit le plus sûr, le plus calme, le plus paisible et le plus merveilleux de tout le Rayon. Tout le monde ici te soutient, même s'ils font parfois des farces. Tu fais partie d'une grande famille. Tout étranger dangereux ne pourra pas s'intégrer ici. Tu peux donc oublier tout cela et profiter de la facilité de ta vie.
+#344 [035]
+Да тебе просто стоит быть более уверенной в себе! Все твои проблемы от мнительности. 
+You need to be more self-confident! All your problems caused by your suspiciousness.
+Tu dois être plus sûr de toi ! Tous tes problèmes sont dus à ta méfiance.
+#345 [035]
+Попробуй это [вы отдаете ей Брейниак]. Попроси мужа снабжать тебя подобным. 
+Try this [give her Brainiac]. Ask your husband to supply you with it. 
+Essaye ceci ! [lui donner un Smartox] Demande à ton mari de t'en fournir. 
+##### Node035 #####
+#350
+Знаешь, мне кажется, что это хорошая идея... Я попробую, спасибо!
+You know what, it seems like a great idea. I will try it, thank you!
+Tu sais quoi, ça semble être une bonne idée. Je vais essayer, merci !
+#351 [999]
+Отлично, совсем другое дело! Сейчас мне надо бежать. Надеюсь, что когда я в следующий раз тебя увижу - ты будешь в полном порядке.
+That's much better! I need to go now. Hope you will be alright when I see you again.
+C'est beaucoup mieux ! Je dois y aller maintenant. J'espère que tu iras bien quand je te reverrai.
+#352 [999]
+[И почему я всегда стараюсь помочь всяким ущербным?] Угу, пока...
+[Why do I always helping some messed up people?] Sure, bye.
+(Pourquoi est-ce que j'aide toujours des gens dérangés ?) Bien sûr, au revoir.
+##### Node041 #####
+#411
+Конечно, спрашивай! 
+Of course! Ask! 
+Bien sûr ! Demande ! 
+#412 [042]
+Как дела?
+How are you doing?
+Comment ça va ?
+#413 [999]
+О... слушай, извини. Вспомнил, что у меня срочное дело тут неподалеку. Заскочу к тебе на обратном пути. До скорого.
+Oh... I've just remembered about some urgent thing I need to do. See you soon, bye.
+Oh... Je viens de me rappeler d'une chose urgente que je dois faire. A bientôt, salut.
+##### Node042 #####
+#420
+Ой, дела намного лучше... И это ведь благодаря тебе!
+Actually, a lot better... Thanks to you!
+En fait, beaucoup mieux... Grâce à toi !
+#421 [999]
+Отлично. Это то, что я хотел услышать. Ладно, у меня дела. Я еще забегу. 
+That's what I wanted to hear. Okay, I need to go. Will come by later. 
+C'est ce que je voulais entendre. Ok, je dois y aller. Je repasserai plus tard. 
+##### Node050 #####
+#500
+[Она тяжело вздохнула] 
+[She heavily sighs.] 
+[Elle soupire lourdement.]
+#501 [052]
+Да, это так... [Вы предпочитаете не смотреть ей в глаза]
+Yes, this is how it is... [avoid looking into her eyes]
+Oui, c'est comme ça... [évite de la regarder dans les yeux]
+#502 [051]
+Я как-то прочел в одной древней книге одну фразу: "Лечите душу ощущениями". Думаю, для тебя это будет самый правильный метод, найти занятие, к которому у тебя душа будет лежать. Начни, что ли, шить одежду для детей. Или устройся в караваны торговцем. Или начни собирать какие-нибудь редкие штуки. Попробуй податься в экспедицию куда-нибудь. Займись делом!
+There's a phrase I remember from one ancient book: "Treat the soul with experience". I think it would work for you. Find an occupation of your liking, something to do, something you can put your soul into. Try making clothes for children, working as a caravan merchant, collecting something rare. Take a trip somewhere. Do something!
+Il y a une phrase que je me rappelle d'un livre ancien : "Traitez l'âme avec de l'expérience". Je pense que ça pourrait marcher pour toi. Trouve une occupation qui te plaît, quelque chose à faire, quelque chose dans lequel tu peux mettre ton âme. Essaye de fabriquer des vêtements pour enfants, de travailler comme marchand de caravanes, de collectionner quelque chose de rare. Pars en voyage quelque part. Fais quelque chose !
+##### Node051 #####
+#510
+[Она смотрит на Вас с минуту] А что я теряю? Надо... надо просто попробовать. И пробовать до тех пор, пока я не найду что-нибудь для себя. Верно?
+[she gives you a really long stare] What do I lose? I... I guess I just need to try. And keep trying until I find something I love. Right?
+[elle te regarde fixement] Qu'est-ce que je perds ? Je... Je suppose que j'ai juste besoin d'essayer. Et continuer d'essayer jusqu'à ce que je trouve quelque chose que j'aime. Pas vrai ?
+#511 [999]
+Верно. Я рад это слышать. Желаю тебе удачи с этим!
+Right. I'm so glad to hear it. Good luck to you.
+C'est vrai. Je suis si heureux de l'entendre. Bonne chance à toi.
+##### Node052 #####
+#520
+[теперь она рыдает]
+[now she is crying loudly.]
+[maintenant elle pleure bruyamment.]
+#521 [053]
+Ну... ты это, держись...
+Uh... Pull it together, will you...
+Euh... Ressaisis-toi, tu veux bien...
+#522 [999]
+[оставить ее]
+[leave her]
+[laisse-la]
+##### Node053 #####
+#530
+[Она Вас явно не слышит и продолжает ныть]
+[She doesn't hear you. She keeps crying.]
+[Elle ne t'entend pas. Elle continue de pleurer.]
+#531 [999]
+[оставить ее]
+[leave her]
+[laisse-la]
+##### Node060 #####
+#600
+Точно! Я просто уверена в этом! Хорошо, что ты меня понимаешь. 
+I am sure about that! I'm so happy you understand. 
+J'en suis sûr ! Je suis heureux que tu comprennes. 
+#601 [019]
+Ладно, может, расскажешь о себе?
+Maybe you can tell me about yourself?
+Peut-être peux-tu me parler de toi ?
+#602 [999]
+Пойду его искать!
+I'll go look for him!
+Je vais aller le chercher !
+##### Node070 #####
+#700
+[она пытается осмыслить хоть что-то из сказанного вами] И что это означает?
+[she is really trying to understand any bit from what you've just said] And what does it all mean?
+[elle essaye vraiment de comprendre un peu de ce que tu viens de dire] Et qu'est-ce que tout cela signifie ?
+#701 [034]
+Что твой мозг работает некорректно, временами искажая реальность. Ты видишь то, чего не существует. Может, тебя и устраивает все это, но посмотри, к чему привел твой недуг... Ты стала несчастной, а ведь это можно попытаться исправить!
+That your brain is working not quite right, distorting your reality. You see the things that don't exist. And look what it did to you... You became unhappy! But the good news is that everything can be fixed.
+Que ton cerveau ne fonctionne pas correctement, déformant ta réalité. Tu vois des choses qui n'existent pas. Et regarde ce que ça t'a fait... Tu es devenue malheureux ! Mais la bonne nouvelle est que tout peut être réparé.
+##### Node080 #####
+#800
+Нет! Я права, я знаю это... я... [она начала всхлипывать и подвывать]
+No! I am right! I know this... I... [she starts crying]
+Non ! J'ai raison ! Je le sais... Je... [elle commence à pleurer]
+#801 [052]
+[подождать]
+[wait for a while]
+[attends un moment]
